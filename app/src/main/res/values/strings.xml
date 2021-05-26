@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestScarler</string>
+    <string name="stop_socket">stop</string>
+    <string name="start_socket">start</string>
+    <string name="data_socket_receive">Received</string>
+    <string name="data_socket_time">Conn. time</string>
+    <string name="data_socket_download">Download</string>
+    <string name="data_socket_upload">Upload</string>
+    <string name="empty_string">--</string>
+</resources>
